@@ -1,4 +1,4 @@
-package com.lawsofnature.connection
+package com.jxjxgo.mysql.connection
 
 import slick.jdbc.JdbcProfile
 
